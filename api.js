@@ -16,6 +16,22 @@ const getWeatherData = async (city) => {
 
 let cities = [703448,702658,709717]
 console.log("City", "Temperature")
+console.log("City", "Temperature")
+
+console.log("City", "Temperature")
+console.log("City", "Temperature")
+console.log("City", "Temperature")
+console.log("City", "Temperature")
+
+console.log("City", "Temperature")
+console.log("City", "Temperature")
+console.log("City", "Temperature")
+
+console.log("City", "Temperature")
+console.log("City", "Temperature")
+console.log("City", "Temperature")
+console.log("City", "Temperature")
+console.log("City", "Temperature")
 cities.forEach(x=>getWeatherData(x));
 
 console.log("https://api.openweathermap.org\nSachok Vladyslav Vitaliovich")
